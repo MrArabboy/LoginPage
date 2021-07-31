@@ -1,0 +1,113 @@
+body {
+	color: blue;
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto';
+	font-size: 24px;
+	background: url(img/Background1.jpg)no-repeat;
+	background-size: cover;
+	
+}
+	
+
+
+
+.loginbox {
+	width: 600px;
+	height: 550px;
+	background: transparent;
+	margin-top: 0px ;
+	margin-left: 200px;	
+	font-family: 'Roboto';
+
+
+
+}
+.loginbox p{
+	margin: 0;
+	padding: 0px;
+	font-size: 24px;
+	color: white;
+
+
+}
+.loginbox input {
+	width: 550px;
+	margin-bottom: 10px;
+}
+.loginbox input[type="text"], input[type="password"]{
+	border: none;
+	border-bottom: 1.5px solid white;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: white;
+	font-size: 18px
+}
+.loginbox input[type="submit"]{
+	border: 2px solid white;
+	outline: none;
+	height: 40px;
+	background: transparent;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+.loginbox input[type="submit"]:hover{
+	cursor: pointer;
+	background: rgb(44, 12, 185);
+	color: 0000;
+}
+
+
+.a{
+	padding: 10px 15px;
+	background: transparent;
+	height: 40px;
+
+}
+button{
+	display: inline-block;
+	padding: 5px;
+	background: transparent;
+	height: 65px;
+	width: 554px;
+	border: 1.5px solid white;
+	color: white;
+	font-size: 30px;
+	margin:0 0 5px 0;
+}
+a{
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 24px;
+	color: #FFFFFF;
+	margin-left: 510px;
+	padding-bottom: 30px;
+
+
+}
+.logotip {
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	width: 250px;
+	height:250px;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
